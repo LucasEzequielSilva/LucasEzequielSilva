@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="25em"  src="https://komarev.com/ghpvc/?username=mrain00&label=Profile%20views&color=DAC03C&style=flat" alt="Lucas" />
 </div>
-
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mrain00&show_icons=true&theme=gruvbox"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrain00&theme=gruvbox"/>
+    
 ##
 
 <div align="center">
