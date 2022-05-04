@@ -28,10 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/Mrain00">
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucianhoff&show_icons=true&theme=gruvbox"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianhoff&theme=gruvbox"/>
-    
+
 </div>
 
 ##
