@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Web and Mobile development technologies 
-- 🥅 Objetivos para 2022: Conviértase en un desarrollador móvil y MERN de pila completa y comience a trabajar
 - 👀 I’m interesting in Web and Mobile projects
+- 🥅 Goals for 2022: Become a full-stack mobile and MERN developer and hit the ground running
 
 ##
 
@@ -53,4 +53,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Photoshop](https://logos-marcas.com/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png)
+
 <br />
