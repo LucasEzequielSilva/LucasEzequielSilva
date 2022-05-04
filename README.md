@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lucas Ezequiel Silva 👋
+### Hi there 👋, I'm Lucas Ezequiel Silva 😀
 ## I'm a Full Stack Developer
 <!--
 **Mrain00/mrain00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
