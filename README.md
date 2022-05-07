@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 👀 I’m interesting in Web and Mobile projects
 - 🥅 Goals for 2022: Become a full-stack mobile and MERN developer and hit the ground running
-
+- 🌍  I'm based in Buenos Aires, Argentina
 ##
 
 <div align="center">
