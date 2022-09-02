@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lucas Ezequiel Silva 😀
 <!--
-**Mrain00/mrain00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LucasEzequielSilva/LucasEzequielSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
