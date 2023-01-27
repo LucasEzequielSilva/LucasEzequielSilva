@@ -13,27 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Web and Mobile development technologies 
-- 👀 I’m interesting in Web and Mobile projects
-- 🥅 Goals for 2022: Become a full-stack mobile and MERN developer and hit the ground running
-- 🌍  I'm based in Buenos Aires, Argentina
-##
-
-<div align="center">
-  <img height="25em"  src="https://komarev.com/ghpvc/?username=mrain00&label=Profile%20views&color=DAC03C&style=flat" alt="Lucas" />
-</div>
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasezequielsilva&show_icons=true&theme=gruvbox"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasezequielsilva&theme=gruvbox"/>
-    
-##
-
-<div align="center">
-  <a href="https://github.com/Mrain00">
-</div>
-  
-
-##
+##🌱 I am currently learning UX Writing and other disciplines that help me improve the user experience
+##👀 I am interested in web and mobile projects
+##🥅 Goals for 2023: Being able to start my startup and take it very far, I know I will achieve it
+##🌍 I live in Buenos Aires, Argentina
 
 ### Languages and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
