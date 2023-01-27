@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##🌱 I am currently learning UX Writing and other disciplines that help me improve the user experience
-##👀 I am interested in web and mobile projects
-##🥅 Goals for 2023: Being able to start my startup and take it very far, I know I will achieve it
-##🌍 I live in Buenos Aires, Argentina
+- 🌱 I am currently learning UX Writing and other disciplines that help me improve the user experience
+- 👀 I am interested in web and mobile projects
+- 🥅 Goals for 2023: Being able to start my startup and take it very far, I know I will achieve it
+- 🌍 I live in Buenos Aires, Argentina
 
 ### Languages and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
