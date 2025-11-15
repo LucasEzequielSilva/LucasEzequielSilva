@@ -46,21 +46,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrain00&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrain00&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 - 💬 DM me for collaboration, consulting or just to talk about design and tech
-- 📫 Reach me at: lucassilva.dev [at] gmail [dot] com  
-- 🌐 Portfolio coming soon...
+- 📫 Reach me at: luxassilva@gmail.com  
+- 🌐 Funnels & webs: 0800web.com.ar MVP Development: 0800labs.com
 
 ---
 
